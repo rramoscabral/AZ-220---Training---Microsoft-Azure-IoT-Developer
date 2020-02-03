@@ -4,7 +4,7 @@ Training for Microsoft Official Course (MOC) AZ-220: Microsoft Azure IoT Develop
 <br>
 
 ### About the course
-
+This course provides students with the skills and knowledge required to successfully create and maintain the cloud and edge portions of an Azure IoT solution. The course includes full coverage of the core Azure IoT services such as IoT Hub, Device Provisioning Services, Azure Stream Analytics, Time Series Insights, and more. In addition to the focus on Azure PaaS services, the course includes sections on IoT Edge, device management, monitoring and troubleshooting, security concerns, and Azure IoT Central.
 
 <br>
 
