@@ -31,6 +31,7 @@ This course provides students with the skills and knowledge required to successf
 <br>
 
 #### Free eBooks
+ * [Microsoft Azure IoT Reference Architecture, version 2.1, 2018-09-26](http://download.microsoft.com/download/A/4/D/A4DAD253-BC21-41D3-B9D9-87D2AE6F0719/Microsoft_Azure_IoT_Reference_Architecture.pdf)
 
 
 <br>
