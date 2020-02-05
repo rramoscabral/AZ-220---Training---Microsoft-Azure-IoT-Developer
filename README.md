@@ -24,7 +24,7 @@ This course provides students with the skills and knowledge required to successf
 <br>
 
 ### Resources
-
+ * [Azure Certified for IoT device catalog](https://catalog.azureiotsolutions.com/alldevices)
  * [Gitter Microsoft/azure-iot-developer-kit](https://gitter.im/Microsoft/azure-iot-developer-kit?at=5cf375da9b50f639356a61a7)
 
 
