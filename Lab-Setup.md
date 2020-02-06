@@ -11,6 +11,7 @@ Is recomended that you use [Windows 10](https://www.microsoft.com/software-downl
 | Azure PowerShell | https://docs.microsoft.com/powershell/azure/install-az-ps |
 | Dot NET Core 3 SDK (current/latest)| https://dotnet.microsoft.com/download |
 | Git for Windows | https://git-scm.com/download/win |
+| Node.js & npm | https://nodejs.org/en/download/ |
 | Power BI Desktop | https://powerbi.microsoft.com/en-us/desktop/ |
 | PowerShell Core (Windows, Linux) | https://github.com/PowerShell/PowerShell/releases |
 | Python 3.7| https://www.python.org/downloads/release/python-370/ |
