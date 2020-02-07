@@ -19,7 +19,7 @@ This course provides students with the skills and knowledge required to successf
  <br>
  
 ### Microsoft Samples
-
+ * (soon)
 
 <br>
 
