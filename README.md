@@ -17,7 +17,13 @@ This course provides students with the skills and knowledge required to successf
  * [Azure IoT Workshop, MVP Summit 2019, Ranga Vadlamudi](https://github.com/rangv/MarchWorkshop)
  
  <br>
- 
+
+Software list to run the course and workshop labs [here](./Lab-Setup.md)
+
+
+<br>
+
+
 ### Microsoft Samples
  * (soon)
 
