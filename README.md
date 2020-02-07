@@ -25,7 +25,11 @@ Software list to run the course and workshop labs [here](./Lab-Setup.md)
 
 
 ### Microsoft Samples
- * (soon)
+ * [Azure IoT Edge End2End pipeline](https://github.com/Azure-Samples/iotedge-end2end-messageflow)
+ * [Azure IoT Edge sample project for .NET](https://github.com/Azure-Samples/iot-edge-sample-dotnet) 
+ * [Azure IoT Edge sample to run event grid ](https://github.com/Azure-Samples/azure-iot-edge-event-grid-sample)
+ * [Azure IoT Hub and Azure IoT Hub Device Provisioning Service C# SDK](https://github.com/Azure-Samples/azure-iot-samples-csharp)
+
 
 <br>
 
