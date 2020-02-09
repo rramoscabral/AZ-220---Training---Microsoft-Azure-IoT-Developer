@@ -9,6 +9,7 @@ Is recomended that you use [Windows 10](https://www.microsoft.com/software-downl
 | Azure CLI | https://docs.microsoft.com/cli/azure/install-azure-cli |
 | Azure Storage Explorer | https://azure.microsoft.com/en-us/features/storage-explorer/ |
 | Azure PowerShell | https://docs.microsoft.com/powershell/azure/install-az-ps |
+| Docker Community Edition | https://www.docker.com/products/docker-desktop |
 | Dot NET Core 3 SDK (current/latest)| https://dotnet.microsoft.com/download |
 | Git for Windows | https://git-scm.com/download/win |
 | Node.js & npm | https://nodejs.org/en/download/ |
@@ -23,6 +24,7 @@ Is recomended that you use [Windows 10](https://www.microsoft.com/software-downl
 | Visual Studio Code Azure Resource Manager Tools Extension | https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools |
 | Visual Studio Code Azure Storage Extension | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage |
 | Visual Studio Code C# Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp |
+| Visual Studio Code Docker Extension | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker |
 | Visual Studio Code PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
 
 
