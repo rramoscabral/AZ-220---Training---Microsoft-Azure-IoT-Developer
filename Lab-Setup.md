@@ -10,7 +10,7 @@ Is recomended that you use [Windows 10](https://www.microsoft.com/software-downl
 | Azure Storage Explorer | https://azure.microsoft.com/en-us/features/storage-explorer/ |
 | Azure PowerShell | https://docs.microsoft.com/powershell/azure/install-az-ps |
 | Docker Community Edition | https://www.docker.com/products/docker-desktop |
-| Dot NET Core 3 SDK (current/latest)| https://dotnet.microsoft.com/download |
+| Dot NET Core 3 SDK | https://dotnet.microsoft.com/download |
 | Git for Windows | https://git-scm.com/download/win |
 | Node.js & npm | https://nodejs.org/en/download/ |
 | Power BI Desktop | https://powerbi.microsoft.com/en-us/desktop/ |
