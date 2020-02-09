@@ -41,6 +41,6 @@ With Visual Studio Code you can perform all labs. However, the following list is
  
 | Software | Link |
 | --- | --- |
-| Visual Studio 2019 IDE  | https://visualstudio.microsoft.com/vs/
+| Visual Studio IDE  | https://visualstudio.microsoft.com/vs/
 | Visual Studio Code Azure IoT Edge Tools Visual Studio 2017 | https://marketplace.visualstudio.com/items?itemName=vsc-iot.vsiotedgetools |
 | Visual Studio Code Azure IoT Edge Tools Visual Studio 2019 | https://marketplace.visualstudio.com/items?itemName=vsc-iot.vs16iotedgetools |
