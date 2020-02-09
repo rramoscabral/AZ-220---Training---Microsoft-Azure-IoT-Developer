@@ -36,6 +36,7 @@ Software list to run the course and workshop labs [here](./Lab-Setup.md)
 ### Resources
  * [Azure free subscription](https://azure.microsoft.com/free/)
  * [Azure IoT certified device catalog](https://catalog.azureiotsolutions.com/alldevices)
+ * [Azure IoT Edge Dev Tool wiki](https://github.com/Azure/iotedgedev/wiki)
  * [Azure IoT solution accelerators](https://www.azureiotsolutions.com/Accelerators)
  * [Gitter Microsoft/azure-iot-developer-kit](https://gitter.im/Microsoft/azure-iot-developer-kit?at=5cf375da9b50f639356a61a7)
 
