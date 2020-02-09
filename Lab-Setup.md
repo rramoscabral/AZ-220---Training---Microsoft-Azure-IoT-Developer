@@ -29,3 +29,16 @@ Is recomended that you use [Windows 10](https://www.microsoft.com/software-downl
 **Notes:**
  1. The software list is ordered alphabetically and is not ordered by the installation sequence
  2. .NET Core 3 SDK is not 100% compatible with Visual Studio 2017, you can use it by enable "previews of the .NET Core SDK"
+ 
+ 
+
+<br>
+
+It is not mandatory to use the Visual Studio IDE.
+With Visual Studio Code you can perform all labs. However, the following list is for the Visual Studio IDE only.
+ 
+| Software | Link |
+| --- | --- |
+| Visual Studio 2019 IDE  | https://visualstudio.microsoft.com/vs/
+| Visual Studio Code Azure IoT Edge Tools Visual Studio 2017 | https://marketplace.visualstudio.com/items?itemName=vsc-iot.vsiotedgetools |
+| Visual Studio Code Azure IoT Edge Tools Visual Studio 2019 | https://marketplace.visualstudio.com/items?itemName=vsc-iot.vs16iotedgetools |
