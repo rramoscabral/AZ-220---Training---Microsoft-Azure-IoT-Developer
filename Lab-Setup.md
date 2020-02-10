@@ -32,9 +32,36 @@ Is recomended that you use [Windows 10](https://www.microsoft.com/software-downl
  1. The software list is ordered alphabetically and is not ordered by the installation sequence
  2. .NET Core 3 SDK is not 100% compatible with Visual Studio 2017, you can use it by enable "previews of the .NET Core SDK"
  
- 
 
 <br>
+
+
+**Using Linux on Windows 10**
+
+If you are going to use the Windows 10 operating system, it is recommended to activate Microsoft Windows Subsystem Linux and install a distribution of your choice (For Az-220 it is recommended)
+
+  How-to Install:
+  
+  1. Before installing any Linux distros for WSL, you must ensure that the "Windows Subsystem for Linux" optional feature is enabled
+  ```powershell
+    Install-Module PowerShellGet -Force
+    Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+  ```
+  2. You can install Linux distros from the Microsoft Store app or you can download and manually install Linux distros by clicking these links:
+      * [Ubuntu 18.04](https://aka.ms/wsl-ubuntu-1804)
+      * [Ubuntu 18.04 ARM](https://aka.ms/wsl-ubuntu-1804-arm)
+      * [Ubuntu 16.04](https://aka.ms/wsl-ubuntu-1604)
+      * [Debian GNU/Linux](https://aka.ms/wsl-debian-gnulinux)
+      * [Kali Linux](https://aka.ms/wsl-kali-linux-new)
+      * [OpenSUSE Leap 42](https://aka.ms/wsl-opensuse-42)
+      * [SUSE Linux Enterprise Server 12](https://aka.ms/wsl-sles-12)
+     * [Fedora Remix for WSL](https://github.com/WhitewaterFoundry/WSLFedoraRemix/releases/)
+
+
+<br>
+
+
+**Visual Studio IDE (Community, Professional, Enterprise)** 
 
 It is not mandatory to use the Visual Studio IDE.
 With Visual Studio Code you can perform all labs. However, the following list is for the Visual Studio IDE only.
