@@ -10,11 +10,24 @@ This course provides students with the skills and knowledge required to successf
 
 ### Microsoft Labs and Workshops
  * [Azure IoT Central and MXChip Hands-on Lab, Pamela](https://github.com/AltaOhms/IoT-Central-HoL)
+   * This hands-on lab is repurposed content from the "Connect an MXChip IoT DevKit device to your Azure IoT Central application" guide and Dave Glover's workshop.
  * [Azure IoT Edge Hands On Labs With Edge Enabled MarketPlace VM, Ranga Vadlamudi](https://github.com/rangv/azureiotedgelab)
- * [Azure IoT Edge Ubuntu VM Hands on Labs, Ranga Vadlamudi](https://github.com/rangv/AzureIoTEdgeUbuntuLabs)
+   * This hands-on lab demonstrates what is involved in standing up an Azure IoT Edge enabled Linux VM on Azure Marketplace and running Edge Modules.
+ * [Azure IoT Edge Ubuntu VM Hands on Labs, 2018, Ranga Vadlamudi](https://github.com/rangv/AzureIoTEdgeUbuntuLabs)
+   * Build Azure IoT Edge Solutions using Ubuntu VM on Azure
  * [Azure IoT GBB Training Workshop, MS Inspire 2019, Pamela](https://github.com/AltaOhms/ReadyIoTWorkshop)
+   * 3 Day IoT training at MS Inspire 2019
  * [Azure IoT Hands on Labs, Microsoft](https://github.com/Azure-Samples/azureiotlabs)
+   * Build Azure IoT End to End Solutions connecting real & simulated devices to Azure IoT Hub
+ * [Azure IoT PiDay Workshop](https://github.com/Azure/IoT-Pi-Day)
+   * Workshop to build out a real-life IoT scenario by capturing IoT data and ingesting it into the Azure Cloud as a Data Services Solution.
+/Azure%20IoT%20Data%20Services%20Solution%20-%20v4.pdf)
+ * [Azure IoT Real-time asset tracking Workshop, 2019](https://github.com/Azure/iot-workshop-asset-tracking)
+   * Worskshop based in real-time asset tracking scenario
  * [Azure IoT Workshop, MVP Summit 2019, Ranga Vadlamudi](https://github.com/rangv/MarchWorkshop)
+   * Workshop about new features of IoT Central, IoT SDKs, Time Series Insights & Azure Maps at MVP Summit 2019
+
+ 
  
  <br>
 
@@ -37,7 +50,10 @@ Software list to run the course and workshop labs [here](./Lab-Setup.md)
  * [Azure free subscription](https://azure.microsoft.com/free/)
  * [Azure IoT certified device catalog](https://catalog.azureiotsolutions.com/alldevices)
  * [Azure IoT Edge Dev Tool wiki](https://github.com/Azure/iotedgedev/wiki)
+ * [Azure IoT Reference Architecture](https://aka.ms/iotrefarchitecture)
+ * [Azure IoT Show](https://aka.ms/iotshow)
  * [Azure IoT solution accelerators](https://www.azureiotsolutions.com/Accelerators)
+ * [Azure IoT Tech Community](https://aka.ms/iottechcommunity)
  * [Gitter Microsoft/azure-iot-developer-kit](https://gitter.im/Microsoft/azure-iot-developer-kit?at=5cf375da9b50f639356a61a7)
 
 
