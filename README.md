@@ -21,7 +21,6 @@ This course provides students with the skills and knowledge required to successf
    * Build Azure IoT End to End Solutions connecting real & simulated devices to Azure IoT Hub
  * [Azure IoT PiDay Workshop](https://github.com/Azure/IoT-Pi-Day)
    * Workshop to build out a real-life IoT scenario by capturing IoT data and ingesting it into the Azure Cloud as a Data Services Solution.
-/Azure%20IoT%20Data%20Services%20Solution%20-%20v4.pdf)
  * [Azure IoT Real-time asset tracking Workshop, 2019](https://github.com/Azure/iot-workshop-asset-tracking)
    * Worskshop based in real-time asset tracking scenario
  * [Azure IoT Workshop, MVP Summit 2019, Ranga Vadlamudi](https://github.com/rangv/MarchWorkshop)
