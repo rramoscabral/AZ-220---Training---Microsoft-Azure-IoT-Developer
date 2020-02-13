@@ -38,7 +38,7 @@ Is recomended that you use [Windows 10](https://www.microsoft.com/software-downl
 
 **Using Linux on Windows 10**
 
-If you are going to use the Windows 10 operating system, it is recommended to activate Microsoft Windows Subsystem Linux and install a distribution of your choice (For Az-220 it is recommended Ubunto LTS)
+If you are going to use the Windows 10 operating system, it is recommended to enable Microsoft Windows Subsystem Linux and install a distribution of your choice (For Az-220 it is recommended Ubunto LTS)
 
   How-to Install:
   
