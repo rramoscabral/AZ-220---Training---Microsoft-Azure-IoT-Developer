@@ -42,7 +42,7 @@ If you are going to use the Windows 10 operating system, it is recommended to en
 
   How-to Install:
   
-  1. Before installing any Linux distros for WSL, you must ensure that the "Windows Subsystem for Linux" optional feature is enabled
+  1. Before installing any Linux distros for WSL, you must ensure that the "Windows Subsystem for Linux" optional feature is enabled using Windows PowerShell:
   ```powershell
     Install-Module PowerShellGet -Force
     Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
