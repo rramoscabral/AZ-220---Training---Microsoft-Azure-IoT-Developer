@@ -34,13 +34,21 @@ Software list to run the course and workshop labs [here](./Lab-Setup.md)
 
 
 <br>
-
-
+  
 ### Microsoft Samples
  * [Azure IoT Edge End2End pipeline](https://github.com/Azure-Samples/iotedge-end2end-messageflow)
  * [Azure IoT Edge sample project for .NET](https://github.com/Azure-Samples/iot-edge-sample-dotnet) 
  * [Azure IoT Edge sample to run event grid ](https://github.com/Azure-Samples/azure-iot-edge-event-grid-sample)
  * [Azure IoT Hub and Azure IoT Hub Device Provisioning Service sample for C# SDK](https://github.com/Azure-Samples/azure-iot-samples-csharp)
+
+
+<br>
+
+### Simulators
+  * [Azure IoT device simulation with Microsoft Azure IoT Solution Accelerators](https://www.azureiotsolutions.com/Accelerators)
+  * [MXChip AZ3166 IoT DevKit Simulator](https://azure-samples.github.io/iot-devkit-web-simulator/)
+    * [Code Repository](https://github.com/Azure-Samples/iot-devkit-web-simulator)
+  * [Raspberry Pi Azure IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)
 
 
 <br>
@@ -54,7 +62,6 @@ Software list to run the course and workshop labs [here](./Lab-Setup.md)
  * [Azure IoT solution accelerators](https://www.azureiotsolutions.com/Accelerators)
  * [Azure IoT Tech Community](https://aka.ms/iottechcommunity)
  * [Gitter Microsoft/azure-iot-developer-kit](https://gitter.im/Microsoft/azure-iot-developer-kit?at=5cf375da9b50f639356a61a7)
-
 
 
 <br>
