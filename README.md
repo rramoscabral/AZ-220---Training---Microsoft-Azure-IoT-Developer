@@ -9,17 +9,17 @@ This course provides students with the skills and knowledge required to successf
 <br>
 
 ### Microsoft Labs and Workshops
- * [Azure IoT Central and MXChip Hands-on Lab, Pamela](https://github.com/AltaOhms/IoT-Central-HoL)
+ * [Azure IoT Central and MXChip Hands-on Lab, 2019, Pamela Cortez](https://github.com/AltaOhms/IoT-Central-HoL)
    * This hands-on lab is repurposed content from the "Connect an MXChip IoT DevKit device to your Azure IoT Central application" guide and Dave Glover's workshop.
- * [Azure IoT Edge Hands On Labs With Edge Enabled MarketPlace VM, Ranga Vadlamudi](https://github.com/rangv/azureiotedgelab)
+ * [Azure IoT Edge Hands On Labs With Edge Enabled MarketPlace VM, 2019, Ranga Vadlamudi](https://github.com/rangv/azureiotedgelab)
    * This hands-on lab demonstrates what is involved in standing up an Azure IoT Edge enabled Linux VM on Azure Marketplace and running Edge Modules.
  * [Azure IoT Edge Ubuntu VM Hands on Labs, 2018, Ranga Vadlamudi](https://github.com/rangv/AzureIoTEdgeUbuntuLabs)
    * Build Azure IoT Edge Solutions using Ubuntu VM on Azure
- * [Azure IoT GBB Training Workshop, MS Inspire 2019, Pamela](https://github.com/AltaOhms/ReadyIoTWorkshop)
+ * [Azure IoT GBB Training Workshop, MS Inspire 2019, Pamela Cortez](https://github.com/AltaOhms/ReadyIoTWorkshop)
    * 3 Day IoT training at MS Inspire 2019
  * [Azure IoT Hands on Labs, Microsoft](https://github.com/Azure-Samples/azureiotlabs)
    * Build Azure IoT End to End Solutions connecting real & simulated devices to Azure IoT Hub
- * [Azure IoT PiDay Workshop](https://github.com/Azure/IoT-Pi-Day)
+ * [Azure IoT PiDay Workshop, 2018](https://github.com/Azure/IoT-Pi-Day)
    * Workshop to build out a real-life IoT scenario by capturing IoT data and ingesting it into the Azure Cloud as a Data Services Solution.
  * [Azure IoT Real-time asset tracking Workshop, 2019](https://github.com/Azure/iot-workshop-asset-tracking)
    * Worskshop based in real-time asset tracking scenario
