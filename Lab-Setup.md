@@ -7,6 +7,7 @@ Is recomended that you use [Windows 10](https://www.microsoft.com/software-downl
 | Software | Link |
 | --- | --- |
 | Azure CLI | https://docs.microsoft.com/cli/azure/install-azure-cli |
+| Azure IoT Explorer | https://github.com/Azure/azure-iot-explorer#getting-azure-iot-explorer |
 | Azure Storage Explorer | https://azure.microsoft.com/en-us/features/storage-explorer/ |
 | Azure PowerShell | https://docs.microsoft.com/powershell/azure/install-az-ps |
 | Docker Community Edition | https://www.docker.com/products/docker-desktop |
