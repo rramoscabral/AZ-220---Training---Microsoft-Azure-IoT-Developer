@@ -27,7 +27,7 @@ Is recomended that you use [Windows 10](https://www.microsoft.com/software-downl
 | Visual Studio Code C# Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp |
 | Visual Studio Code Docker Extension | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker |
 | Visual Studio Code PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
-
+| Windows 10 IoT Core Dashboard | https://docs.microsoft.com/en-us/windows/iot-core/connect-your-device/iotdashboard |
 
 **Notes:**
  1. The software list is ordered alphabetically and is not ordered by the installation sequence
