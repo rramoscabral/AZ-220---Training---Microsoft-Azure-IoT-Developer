@@ -14,7 +14,7 @@ Sessions from Microsoft Build 2019
 | [BRK3035](https://mybuild.techcommunity.microsoft.com/sessions/77056?source=sessions) | Azure Sphere: Securely unlocking IoT for your Enterprise |
 | [BRK3036](https://mybuild.techcommunity.microsoft.com/sessions/77057?source=sessions) | Windows IoT: The foundation for your Intelligent Edge |
 | [BRK2014](https://mybuild.techcommunity.microsoft.com/sessions/76983?source=sessions) | New data & analytics engine for the Intelligent Edge: Simplify Edge Architecture with Azure SQL Database Edge |
-| [BRK3099](https://mybuild.techcommunity.microsoft.com/sessions/77000?source=sessions) | uild large scale near real time analytical solutions to accelerate the digital feedback loop for IoT and Apps |
+| [BRK3099](https://mybuild.techcommunity.microsoft.com/sessions/77000?source=sessions) | Build large scale near real time analytical solutions to accelerate the digital feedback loop for IoT and Apps |
 | [BRK3058](https://mybuild.techcommunity.microsoft.com/sessions/76999?source=sessions) | From cloud to the intelligent edge: Drive real-time decisions with Azure Stream Analytics |
 | [CFS2027](https://mybuild.techcommunity.microsoft.com/sessions/77175?source=sessions) | Using IoT to improve people’s health and brain power |
 | [STU1011](https://mybuild.techcommunity.microsoft.com/sessions/77455?source=sessions) | Can Polar Bears Help Predict Global Climate Change? Find out with Azure AI and IoT! |
