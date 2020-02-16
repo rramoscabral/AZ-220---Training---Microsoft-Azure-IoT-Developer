@@ -35,9 +35,7 @@ Sessions from Microsoft Build 2019
 |---|---|
 | [TSP2043](https://mybuild.techcommunity.microsoft.com/sessions/77612?source=sessions) | The future of IoT SaaS application development |
 | [TSP2043R](https://mybuild.techcommunity.microsoft.com/sessions/77533?source=sessions) | The future of IoT SaaS application development |
-| [TSP2047](https://mybuild.techcommunity.microsoft.com/sessions/77537?source=sessions) |  BACK TO SESSIONS
-Use Cortana SDK on Azure IoT and the Cortana Bluetooth spec to bring ambient intelligent assistance to first-line workers
- |
+| [TSP2047](https://mybuild.techcommunity.microsoft.com/sessions/77537?source=sessions) | Use Cortana SDK on Azure IoT and the Cortana Bluetooth spec to bring ambient intelligent assistance to first-line workers |
 | [TSP2038](https://mybuild.techcommunity.microsoft.com/sessions/77528?source=sessions) | New connection scenarios for Azure Sphere |
 | TSP2038R | New connection scenarios for Azure Sphere |
 
