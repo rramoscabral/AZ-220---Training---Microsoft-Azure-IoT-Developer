@@ -16,8 +16,10 @@ It to help you become proficient on our technologies with fun, guided, hands-on,
 | [Introduction to Azure IoT Edge](https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/index) | [AI edge engineer](https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/) | 29 min |
 | [Deploy a prebuilt module to the Edge device](https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/index) | [AI edge engineer](https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/) | 56 min |
 | [Train and package an Azure machine learning module for deployment to IoT Edge device](https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/index) | [AI edge engineer](https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/) | 1 hr 2 min |
-| []() | | min |
-| []() | | min |
+| [Introduction Remotely monitor and control devices with Azure IoT Hub](https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/1-introduction) | [Remotely monitor and control devices with Azure IoT Hub](https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/) | 2 min |
+| [Write code to send and receive telemetry](https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/3-write-code-device-telemetry) | [Remotely monitor and control devices with Azure IoT Hub](https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/) | 2 min |
+| [Write code to invoke a direct method](https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/5-write-code-direct-methods) | [Remotely monitor and control devices with Azure IoT Hub](https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/) | 2 min |
+| [Write code for device twins](https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/7-write-code-device-twins) | [Remotely monitor and control devices with Azure IoT Hub](https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/) | 2 min |
 | []() | | min |
 | [Introduction to implementing lambda architecture for IoT solutions](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/1-introduction) | [Introduction to implementing lambda architecture for IoT solutions](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/) | 2min |
 | [Learn about the hot and cold paths of lambda architecture](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/2-learn-about-hot-cold-paths-lambda-architecture) | [Introduction to implementing lambda architecture for IoT solutions](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/) | 5 min |
@@ -27,3 +29,11 @@ It to help you become proficient on our technologies with fun, guided, hands-on,
 | []() | | min |
 | []() | | min |
 | []() | | min |
+| [Create an Azure IoT Central application](https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/1-create-azure-iot-central-application) | [Monitor and manage your coffee machine with Azure IoT Central](https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/) | 5 min |
+| [Define the coffee machine in a device template](https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/2-define-coffee-machine-with-device-template) | [Monitor and manage your coffee machine with Azure IoT Central](https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/) | 12 min |
+| [Connect your simulated coffee machine to the application](https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/3-connect-your-application-to-simulator) | [Monitor and manage your coffee machine with Azure IoT Central](https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/) | 15 min |
+| [Validate your connection and data flow](https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/4-validate-your-connection) | | 12 min |
+| [Configure rules and actions to monitor your coffee machine](https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/5-configure-rules-and-actions) | [Monitor and manage your coffee machine with Azure IoT Central](https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/) | 12 min |
+
+
+
