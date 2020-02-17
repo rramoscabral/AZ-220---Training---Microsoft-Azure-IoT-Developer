@@ -19,3 +19,11 @@ It to help you become proficient on our technologies with fun, guided, hands-on,
 | []() | | min |
 | []() | | min |
 | []() | | min |
+| [Introduction to implementing lambda architecture for IoT solutions](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/1-introduction) | [Introduction to implementing lambda architecture for IoT solutions](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/) | 2min |
+| [Learn about the hot and cold paths of lambda architecture](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/2-learn-about-hot-cold-paths-lambda-architecture) | [Introduction to implementing lambda architecture for IoT solutions](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/) | 5 min |
+| [Learn about unstructured data storage](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/3-learn-about-blob-storage) | [Introduction to implementing lambda architecture for IoT solutions](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/) | 7 min |
+| [Learn about Cosmos DB structure and consistency](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/4-learn-about-cosmos-db-structure-consistency) | [Introduction to implementing lambda architecture for IoT solutions](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/) | 6 min |
+| [Learn about data through Time Series Insights](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/5-learn-about-data-through-time-series-insights) | [Introduction to implementing lambda architecture for IoT solutions](https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/) | 4 min |
+| []() | | min |
+| []() | | min |
+| []() | | min |
