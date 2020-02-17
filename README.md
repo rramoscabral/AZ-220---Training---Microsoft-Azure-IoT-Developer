@@ -75,3 +75,4 @@ Software list to run the course and workshop labs [here](./Lab-Setup.md)
  
 #### Videos
  * [IoT Deep Dive Live: Location Intelligence for Transportation with Azure Maps, 2019-05-06](https://www.youtube.com/watch?v=MJhfqC9Chjo)
+ * [Microsoft Build 2019](./Microsoft-Build-2019.md)
