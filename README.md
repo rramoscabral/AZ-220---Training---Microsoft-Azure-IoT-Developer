@@ -8,7 +8,7 @@ This course provides students with the skills and knowledge required to successf
 
 <br>
 
-### Microsoft Labs and Workshops
+## Microsoft Labs and Workshops
  * [Azure IoT Central and MXChip Hands-on Lab, 2019, Pamela Cortez](https://github.com/AltaOhms/IoT-Central-HoL)
    * This hands-on lab is repurposed content from the "Connect an MXChip IoT DevKit device to your Azure IoT Central application" guide and Dave Glover's workshop.
  * [Azure IoT Edge Hands On Labs With Edge Enabled MarketPlace VM, 2019, Ranga Vadlamudi](https://github.com/rangv/azureiotedgelab)
@@ -30,12 +30,12 @@ This course provides students with the skills and knowledge required to successf
  
  <br>
 
-Software list to run the course and workshop labs [here](./Lab-Setup.md)
+Software list to run the course and workshop labs available [here](./Lab-Setup.md)
 
 
 <br>
   
-### Microsoft Samples
+## Microsoft Samples
  * [Azure IoT Edge End2End pipeline](https://github.com/Azure-Samples/iotedge-end2end-messageflow)
  * [Azure IoT Edge sample project for .NET](https://github.com/Azure-Samples/iot-edge-sample-dotnet) 
  * [Azure IoT Edge sample to run event grid ](https://github.com/Azure-Samples/azure-iot-edge-event-grid-sample)
@@ -44,7 +44,7 @@ Software list to run the course and workshop labs [here](./Lab-Setup.md)
 
 <br>
 
-### Simulators
+## Simulators
   * [Azure IoT device simulation with Microsoft Azure IoT Solution Accelerators](https://www.azureiotsolutions.com/Accelerators)
   * [MXChip AZ3166 IoT DevKit Simulator](https://azure-samples.github.io/iot-devkit-web-simulator/)
     * [Code Repository](https://github.com/Azure-Samples/iot-devkit-web-simulator)
@@ -53,7 +53,7 @@ Software list to run the course and workshop labs [here](./Lab-Setup.md)
 
 <br>
 
-### Resources
+## Resources
  * [Azure free subscription](https://azure.microsoft.com/free/)
  * [Azure IoT certified device catalog](https://catalog.azureiotsolutions.com/alldevices)
  * [Azure IoT Edge Dev Tool wiki](https://github.com/Azure/iotedgedev/wiki)
