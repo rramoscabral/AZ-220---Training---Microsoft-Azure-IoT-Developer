@@ -8,6 +8,11 @@ This course provides students with the skills and knowledge required to successf
 
 <br>
 
+[Azure IoT documentation](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
+
+
+<br>
+
 ## Microsoft Labs and Workshops
  * [Azure IoT Central and MXChip Hands-on Lab, 2019, Pamela Cortez](https://github.com/AltaOhms/IoT-Central-HoL)
    * This hands-on lab is repurposed content from the "Connect an MXChip IoT DevKit device to your Azure IoT Central application" guide and Dave Glover's workshop.
@@ -36,6 +41,7 @@ Software list to run the course and workshop labs available [here](./Lab-Setup.m
 <br>
   
 ## Microsoft Samples
+ * [Microsoft code samples for IoT](https://docs.microsoft.com/en-us/samples/browse/?term=iot)
  * [Azure IoT Edge End2End pipeline](https://github.com/Azure-Samples/iotedge-end2end-messageflow)
  * [Azure IoT Edge sample project for .NET](https://github.com/Azure-Samples/iot-edge-sample-dotnet) 
  * [Azure IoT Edge sample to run event grid ](https://github.com/Azure-Samples/azure-iot-edge-event-grid-sample)
