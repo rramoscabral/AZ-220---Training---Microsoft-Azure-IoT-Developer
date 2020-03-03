@@ -8,7 +8,7 @@ This course provides students with the skills and knowledge required to successf
 
 <br>
 
-[Azure IoT documentation](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
+Azure IoT documentation: https://docs.microsoft.com/en-us/azure/iot-fundamentals/
 
 
 <br>
